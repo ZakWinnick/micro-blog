@@ -1,0 +1,26 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Zak Winnick",
+	"icon": "https://micro.blog/zak/avatar.jpg",
+	"home_page_url": "https://www.winnick.io/",
+	"feed_url": "https://www.winnick.io/feed.json",
+	"items": [
+		
+			{
+				"id": "http://zak.micro.blog/2022/09/27/trying-out-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>✨ Trying out the statuslog on omg.lol</p>\n\t\t\t</div>\n",
+				"date_published": "2022-09-27T10:47:23-07:00",
+				"url": "https://www.winnick.io/2022/09/27/trying-out-the.html"
+			},
+			{
+				"id": "http://zak.micro.blog/2022/09/26/seeing-what-the.html",
+				
+				"content_html": "<p>Seeing what the hype is about&hellip;</p>\n<p>Currently reading: <a href=\"https://micro.blog/books/9780062653314\">Heat 2: A Novel</a> by Michael Mann 📚</p>\n",
+				"content_text": "Seeing what the hype is about...\r\n\r\nCurrently reading: [Heat 2: A Novel](https://micro.blog/books/9780062653314) by Michael Mann 📚\n",
+				"date_published": "2022-09-26T08:58:21-07:00",
+				"url": "https://www.winnick.io/2022/09/26/seeing-what-the.html"
+			}
+	]
+}
