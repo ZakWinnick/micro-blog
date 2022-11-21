@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://zak.micro.blog/2022/11/21/i-strongly-dislike.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🚽 I strongly dislike people that don’t observe proper urinal etiquette.</p>\n\t\t\t</div>\n",
+				"date_published": "2022-11-21T13:46:35-08:00",
+				"url": "https://www.winnick.io/2022/11/21/i-strongly-dislike.html"
+			},
+			{
 				"id": "http://zak.micro.blog/2022/11/07/the-penultimate-test.html",
 				"title": "#0 - The Penultimate Test",
 				"content_html": "<p>This is just a test episode, mainly to test some audio configurations, and to get the creative juices flowing.</p>\n<p>Looking forward to the first official episode soon!</p>\n<!-- raw HTML omitted -->\n",
