@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://zak.micro.blog/2022/12/19/084337.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>This is me. I’m <span class=\"h-card\"><a href=\"https://mastodon.social/@davew\" class=\"u-url mention\">@<span>davew</span></a></span> .</p><p><a href=\"http://scripting.com/2022/12/19/152612.html?title=iLoveMyTesla\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">http://</span><span class=\"ellipsis\">scripting.com/2022/12/19/15261</span><span class=\"invisible\">2.html?title=iLoveMyTesla</span></a></p>\n",
+				"date_published": "2022-12-19T08:43:37-08:00",
+				"url": "https://www.winnick.io/2022/12/19/084337.html"
+			},
+			{
+				"id": "http://zak.micro.blog/2022/12/16/migrated-to-my.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Migrated to my own Mastodon server. All hail dogcow.us!</p>\n",
+				"date_published": "2022-12-16T12:19:45-08:00",
+				"url": "https://www.winnick.io/2022/12/16/migrated-to-my.html",
+				"tags": ["Posts"]
+			},
+			{
+				"id": "http://zak.micro.blog/2022/12/16/nothing-like-a.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>☕ Nothing like a 7A All Hands meeting to get you up in the AM. 🙄</p>\n",
+				"date_published": "2022-12-16T07:32:01-08:00",
+				"url": "https://www.winnick.io/2022/12/16/nothing-like-a.html"
+			},
+			{
 				"id": "http://zak.micro.blog/2022/12/09/testing-the-statuslog.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -15,11 +40,19 @@
 				"url": "https://www.winnick.io/2022/12/09/testing-the-statuslog.html"
 			},
 			{
+				"id": "http://zak.micro.blog/2022/12/06/105100.html",
+				"title": "Happy Little Weblogs",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<h1>Testing</h1>\n<p>Yay for Weblogs on <a href=\"https://omg.lol\">OMG.lol</a>!</p>\n",
+				"date_published": "2022-12-06T10:51:00-08:00",
+				"url": "https://www.winnick.io/2022/12/06/105100.html"
+			},
+			{
 				"id": "http://zak.micro.blog/2022/12/06/happy-little-weblogs.html",
 				"title": "Happy Little Weblogs",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<h1>Testing</h1>\n<p>Yay for Weblogs on <a href=\"https://omg.lol\">OMG.lol</a>!</p>\n",
-				"date_published": "2022-12-06T18:51:00-08:00",
+				"date_published": "2022-12-06T10:51:00-08:00",
 				"url": "https://www.winnick.io/2022/12/06/happy-little-weblogs.html"
 			},
 			{
@@ -60,7 +93,7 @@
 				"id": "http://zak.micro.blog/2022/10/13/day-in-the.html",
 				
 				"content_html": "<p>Day in the Life.</p>\n<p>LA Kings v. Seattle Kraken @ Crypto.com Arena. 8:37p PDT.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day in the Life. \n\nLA Kings v. Seattle Kraken @ Crypto.com Arena. 8:37p PDT. \n\n<img src=\"https://cdn.uploads.micro.blog/29963/2022/0033498a67.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day in the Life. \n\nLA Kings v. Seattle Kraken @ Crypto.com Arena. 8:37p PDT. \n\n<img src=\"uploads/2022/0033498a67.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-10-13T20:16:41-08:00",
 				"url": "https://www.winnick.io/2022/10/13/day-in-the.html",
 				"tags": ["Photos"]
@@ -80,150 +113,150 @@
 				"content_text": "<a href=\"https://glass.photo/zak/42Pnts9wzJ65oYIUla8ior\"><img src=\"https://glass-production.imgix.net/post/c67b1879-6f69-4015-81a2-0d7e0a2115f5/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=c01ff28b10eabd97ed1912ef23a7b749\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2022-08-07T10:52:07-08:00",
 				"url": "https://www.winnick.io/2022/08/07/bruce-the-academy.html",
-				"tags": ["Photos"]
+				"tags": ["Photos","Posts"]
 			},
 			{
-				"id": "http://zak.micro.blog/2022/07/30/untitled-photo.html",
-				"title": "Untitled photo",
+				"id": "http://zak.micro.blog/2022/07/30/paint-the-ice.html",
+				"title": "Paint the Ice @ Crypto.com Arena",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "<a href=\"https://glass.photo/zak/7lYZZevhrcABeVpI7JFOFF\"><img src=\"https://glass-production.imgix.net/post/4b767f47-e6d6-4451-a74e-28a14703ff04/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=e06fc454648fa5a4a8bee954942dfbd2\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2022-07-30T21:08:54-08:00",
-				"url": "https://www.winnick.io/2022/07/30/untitled-photo.html",
+				"url": "https://www.winnick.io/2022/07/30/paint-the-ice.html",
 				"tags": ["Photos"]
 			},
 			{
-				"id": "http://zak.micro.blog/2022/06/10/untitled-photo.html",
-				"title": "Untitled photo",
+				"id": "http://zak.micro.blog/2022/06/10/paradise-in-the.html",
+				"title": "Paradise in the Desert",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "<a href=\"https://glass.photo/zak/1gvpP1yZukyZa9gEwm2GFq\"><img src=\"https://glass-production.imgix.net/post/ab953aea-671d-4350-9b3f-823b34311b66/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=6ca97d0244099ed6a171e99b6e48e43c\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2022-06-10T06:42:39-08:00",
-				"url": "https://www.winnick.io/2022/06/10/untitled-photo.html",
+				"url": "https://www.winnick.io/2022/06/10/paradise-in-the.html",
 				"tags": ["Photos"]
 			},
 			{
-				"id": "http://zak.micro.blog/2022/03/30/untitled-photo.html",
-				"title": "Untitled photo",
+				"id": "http://zak.micro.blog/2022/03/30/the-hills.html",
+				"title": "The Hills",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "<a href=\"https://glass.photo/zak/3JUkqY8nfWcSTLMiTl78M2\"><img src=\"https://glass-production.imgix.net/post/d772f513-35a0-4f63-98e5-3201a4c38901/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=d92353dc62b4a96d718358555f058605\" width=\"8444\" height=\"3938\"/></a>\n",
 				"date_published": "2022-03-30T07:33:00-08:00",
-				"url": "https://www.winnick.io/2022/03/30/untitled-photo.html",
+				"url": "https://www.winnick.io/2022/03/30/the-hills.html",
 				"tags": ["Photos"]
 			},
 			{
-				"id": "http://zak.micro.blog/2022/03/15/untitled-photo.html",
-				"title": "Untitled photo",
+				"id": "http://zak.micro.blog/2022/03/15/a-fall-entrance.html",
+				"title": "A Fall Entrance",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "<a href=\"https://glass.photo/zak/37WUY2VTn5AoYnCLE71lKr\"><img src=\"https://glass-production.imgix.net/post/ad5ed10f-b605-4ebc-ba94-e4afb6b89a45/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=3234e1549df40dbafda6afdd20cdf796\" width=\"4000\" height=\"6000\"/></a>\n",
 				"date_published": "2022-03-15T11:26:17-08:00",
-				"url": "https://www.winnick.io/2022/03/15/untitled-photo.html",
+				"url": "https://www.winnick.io/2022/03/15/a-fall-entrance.html",
 				"tags": ["Photos"]
 			},
 			{
-				"id": "http://zak.micro.blog/2022/02/12/untitled-photo.html",
-				"title": "Untitled photo",
+				"id": "http://zak.micro.blog/2022/02/12/a-vintage-view.html",
+				"title": "A Vintage View",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "<a href=\"https://glass.photo/zak/4PqTCpQCNWkBDFb47aacgF\"><img src=\"https://glass-production.imgix.net/post/0366d6a4-152e-4436-8b60-8af694138c38/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=792ffc4676052dcd641ab9316f5b7caf\" width=\"960\" height=\"720\"/></a>\n",
 				"date_published": "2022-02-12T11:29:08-08:00",
-				"url": "https://www.winnick.io/2022/02/12/untitled-photo.html",
+				"url": "https://www.winnick.io/2022/02/12/a-vintage-view.html",
 				"tags": ["Photos"]
 			},
 			{
-				"id": "http://zak.micro.blog/2022/02/06/untitled-photo.html",
-				"title": "Untitled photo",
+				"id": "http://zak.micro.blog/2022/02/06/a-round-bug.html",
+				"title": "A Round Bug",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "<a href=\"https://glass.photo/zak/6vhlDjrvvDn4etkrAuSCj9\"><img src=\"https://glass-production.imgix.net/post/575c33e6-46b2-43f7-9ee9-9bbde8b6869e/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=342beb2ac023d9c3550326d8bdee3f03\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2022-02-06T21:16:14-08:00",
-				"url": "https://www.winnick.io/2022/02/06/untitled-photo.html",
+				"url": "https://www.winnick.io/2022/02/06/a-round-bug.html",
 				"tags": ["Photos"]
 			},
 			{
-				"id": "http://zak.micro.blog/2022/01/04/untitled-photo.html",
-				"title": "Untitled photo",
+				"id": "http://zak.micro.blog/2022/01/04/a-farm-of.html",
+				"title": "A Farm of Grapes",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "<a href=\"https://glass.photo/zak/75En0nqd2e6ju7yYrCXB7c\"><img src=\"https://glass-production.imgix.net/post/947bb160-1ab8-4c24-bd94-2fb4d23271b4/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=b61fa5f6b8b0de26b61af76a8ec3e8f7\" width=\"6000\" height=\"4000\"/></a>\n",
 				"date_published": "2022-01-04T11:37:03-08:00",
-				"url": "https://www.winnick.io/2022/01/04/untitled-photo.html",
+				"url": "https://www.winnick.io/2022/01/04/a-farm-of.html",
 				"tags": ["Photos"]
 			},
 			{
-				"id": "http://zak.micro.blog/2021/12/05/untitled-photo.html",
-				"title": "Untitled photo",
+				"id": "http://zak.micro.blog/2021/12/05/active-aliens.html",
+				"title": "Active Aliens",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "<a href=\"https://glass.photo/zak/6DCWqYNnPjDB9y0YZNPMS5\"><img src=\"https://glass-production.imgix.net/post/5edade39-7b5a-4537-b7ca-d344a1d320bb/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=a37ffdc1d1f46d5140215627d69bbad1\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2021-12-05T15:30:18-08:00",
-				"url": "https://www.winnick.io/2021/12/05/untitled-photo.html",
+				"url": "https://www.winnick.io/2021/12/05/active-aliens.html",
 				"tags": ["Photos"]
 			},
 			{
-				"id": "http://zak.micro.blog/2021/11/30/untitled-photo.html",
-				"title": "Untitled photo",
+				"id": "http://zak.micro.blog/2021/11/30/moon-rise-in.html",
+				"title": "Moon Rise in The Valley",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "<a href=\"https://glass.photo/zak/1DzmkfTxocVehFCi39NjQc\"><img src=\"https://glass-production.imgix.net/post/7c517670-080e-4781-b6bd-3ed9ac55745c/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=0ce4ba60cfbcd4d2a26ccbfc042633cc\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2021-11-30T13:48:09-08:00",
-				"url": "https://www.winnick.io/2021/11/30/untitled-photo.html",
+				"url": "https://www.winnick.io/2021/11/30/moon-rise-in.html",
 				"tags": ["Photos"]
 			},
 			{
-				"id": "http://zak.micro.blog/2021/11/08/untitled-photo.html",
-				"title": "Untitled photo",
+				"id": "http://zak.micro.blog/2021/11/08/wing-over-huntsville.html",
+				"title": "Wing Over Huntsville",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "<a href=\"https://glass.photo/zak/5ui9WuwAS7Fu7G1l9bNOnb\"><img src=\"https://glass-production.imgix.net/post/6f7b2a2d-ec7e-4ddb-9896-037e5b6310c4/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=75fc360c06187a6cfb5cfd1356f974c2\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2021-11-08T15:01:19-08:00",
-				"url": "https://www.winnick.io/2021/11/08/untitled-photo.html",
+				"url": "https://www.winnick.io/2021/11/08/wing-over-huntsville.html",
 				"tags": ["Photos"]
 			},
 			{
-				"id": "http://zak.micro.blog/2021/11/04/175818.html",
-				"title": "Untitled photo",
+				"id": "http://zak.micro.blog/2021/11/04/night-views.html",
+				"title": "Night Views",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "<a href=\"https://glass.photo/zak/5LLk7Nzyc3cqyzgmGTj25v\"><img src=\"https://glass-production.imgix.net/post/afea3b02-3f65-46ea-8901-dc4c8d5a5f35/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=4cba07e04a27cf47dea6b40a801d6420\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2021-11-04T17:58:18-08:00",
-				"url": "https://www.winnick.io/2021/11/04/175818.html",
+				"url": "https://www.winnick.io/2021/11/04/night-views.html",
 				"tags": ["Photos"]
 			},
 			{
-				"id": "http://zak.micro.blog/2021/11/04/untitled-photo.html",
-				"title": "Untitled photo",
+				"id": "http://zak.micro.blog/2021/11/04/shadowy-figures.html",
+				"title": "Shadowy Figures",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "<a href=\"https://glass.photo/zak/1b9EvqtSg3LTT5AQTac4YR\"><img src=\"https://glass-production.imgix.net/post/ecbe3563-2f3f-4e0a-84e6-b81f0fdf5812/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=3856968c7bf21243c4cefda0407f8dd2\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2021-11-04T17:56:05-08:00",
-				"url": "https://www.winnick.io/2021/11/04/untitled-photo.html",
+				"url": "https://www.winnick.io/2021/11/04/shadowy-figures.html",
 				"tags": ["Photos"]
 			},
 			{
-				"id": "http://zak.micro.blog/2021/11/01/072426.html",
-				"title": "Untitled photo",
+				"id": "http://zak.micro.blog/2021/11/01/nighttime-beach-vibes.html",
+				"title": "Nighttime Beach Vibes",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "<a href=\"https://glass.photo/zak/7KLOoNji02jHnbYBDGFXzc\"><img src=\"https://glass-production.imgix.net/post/2b4343ed-3e4e-417a-9fb1-84bbbe6e1065/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=2540a2857de1a556fe83fed168dd4ae9\" width=\"3834\" height=\"2876\"/></a>\n",
 				"date_published": "2021-11-01T07:24:26-08:00",
-				"url": "https://www.winnick.io/2021/11/01/072426.html",
+				"url": "https://www.winnick.io/2021/11/01/nighttime-beach-vibes.html",
 				"tags": ["Photos"]
 			},
 			{
-				"id": "http://zak.micro.blog/2021/11/01/072355.html",
-				"title": "Untitled photo",
+				"id": "http://zak.micro.blog/2021/11/01/the-cone-of.html",
+				"title": "The Cone of Light",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "<a href=\"https://glass.photo/zak/2rYZQJXKTx34qPz5EcFEgA\"><img src=\"https://glass-production.imgix.net/post/74e67a96-b818-4e32-a79b-25a6d782189d/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=daf5e2042254eb89bb0465e24857acf6\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2021-11-01T07:23:55-08:00",
-				"url": "https://www.winnick.io/2021/11/01/072355.html",
+				"url": "https://www.winnick.io/2021/11/01/the-cone-of.html",
 				"tags": ["Photos"]
 			},
 			{
-				"id": "http://zak.micro.blog/2021/11/01/untitled-photo.html",
-				"title": "Untitled photo",
+				"id": "http://zak.micro.blog/2021/11/01/castles-of-wine.html",
+				"title": "Castles of Wine",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "<a href=\"https://glass.photo/zak/2hW1YrKFwF1CHs8vl8XFdn\"><img src=\"https://glass-production.imgix.net/post/99342d67-6e54-48ca-8398-4342150a233e/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=58457b953e9fd1a6a2a04aa1c520981c\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2021-11-01T07:23:25-08:00",
-				"url": "https://www.winnick.io/2021/11/01/untitled-photo.html",
+				"url": "https://www.winnick.io/2021/11/01/castles-of-wine.html",
 				"tags": ["Photos"]
 			},
 			{
-				"id": "http://zak.micro.blog/2021/08/14/untitled-photo.html",
-				"title": "Untitled photo",
+				"id": "http://zak.micro.blog/2021/08/14/union-station.html",
+				"title": "Union Station",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "<a href=\"https://glass.photo/zak/1ez4ekl5inUjiEFJYgD1wj\"><img src=\"https://glass-production.imgix.net/post/f03fa689-f89f-4582-96a5-e54376bbd7c5/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=3601bbcff8a19ebb2793e2be4e58663d\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2021-08-14T05:26:45-08:00",
-				"url": "https://www.winnick.io/2021/08/14/untitled-photo.html",
+				"url": "https://www.winnick.io/2021/08/14/union-station.html",
 				"tags": ["Photos"]
 			}
 	]
