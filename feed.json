@@ -7,35 +7,35 @@
 	"items": [
 		
 			{
-				"id": "http://zak.micro.blog/2023/01/12/channel-z-january.html",
-				"title": "Channel Z #01 \u0026#8211; January 12, 2023",
+				"id": "http://zak.micro.blog/2023/01/25/started-a-streaming.html",
+				"title": "🎧 Started a streaming radio station. [Dogcow Radio](https://radio.dogcow.us/public/dogcow_radio) is on the air! Just some Dave Matthews Band for now, but I'll be adding more soon!",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>This is the initial test episode for <em>Channel Z with Zak Winnick</em>.</p>\n<p>Mainly created to get the show listed in all of the podcast indexes, it also serves as a test bed for my new recording setup.</p>\n<p>More on that in future episodes!</p>\n<section class=\"response\">\n<header>\n<span class=\"kind-display-text\"> </span> <span> </a></header>\n</section>\n",
-				"date_published": "2023-01-12T14:45:02-08:00",
-				"url": "https://zak.micro.blog/2023/01/12/channel-z-january.html"
+				"content_text": "<p>🎧 Started a streaming radio station. <a href=\"https://radio.dogcow.us/public/dogcow_radio\">Dogcow Radio</a> is on the air! Just some Dave Matthews Band for now, but I'll be adding more soon!</p>\n",
+				"date_published": "2023-01-25T19:43:17-08:00",
+				"url": "https://zak.micro.blog/2023/01/25/started-a-streaming.html"
+			},
+			{
+				"id": "http://zak.micro.blog/2023/01/17/just-set-up.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🔥 Just set up Mastodon as the main status poster for both Micro.blog and my website, winnick.io. </p>\n<p>I feel very accomplished. </p>\n<p>Of course, status.lol is for shorter status updates (because it’s so fun!).</p>\n",
+				"date_published": "2023-01-17T18:41:16-08:00",
+				"url": "https://zak.micro.blog/2023/01/17/just-set-up.html"
 			},
 			{
 				"id": "http://zak.micro.blog/2023/01/06/fresh-aliens.html",
 				"title": "Fresh Aliens",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div><a href=\"https://glass.photo/zak/5N8KfRWdFsRz0fIZLEPRbL\"><img decoding=\"async\" loading=\"lazy\" src=\"https://glass-production.imgix.net/post/3ae6a54b-1fff-46b4-b085-5d72e19aecd9/photo?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=b6194fad78b194b2b5b145128388a6c1\" width=\"8064\" height=\"6048\"></a></div>\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<a href=\"https://glass.photo/zak/5N8KfRWdFsRz0fIZLEPRbL\"><img src=\"https://cdn.glass.photo/post/3ae6a54b-1fff-46b4-b085-5d72e19aecd9/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=8788c01c765e30073331fd63c6476cf6\" width=\"8064\" height=\"6048\"/></a>\n",
 				"date_published": "2023-01-06T08:13:56-08:00",
 				"url": "https://zak.micro.blog/2023/01/06/fresh-aliens.html",
 				"tags": ["Photos"]
 			},
 			{
-				"id": "http://zak.micro.blog/2023/01/03/welcome.html",
-				"title": "Welcome!",
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Welcome to the newest version of this website!</p>\n\n\n\n<p>It’s been a long journey to get here, but I think I’ve finally settled on how I want all this to work. </p>\n\n\n\n<p>I’ll start posting stuff here eventually, but in the interim, please feel free to check out the Socials on the right side, and enjoy my short status updates as well!</p>\n",
-				"date_published": "2023-01-03T06:49:02-08:00",
-				"url": "https://zak.micro.blog/2023/01/03/welcome.html"
-			},
-			{
 				"id": "http://zak.micro.blog/2023/01/02/deserted-highway.html",
 				"title": "Desert(ed) Highway",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div><a href=\"https://glass.photo/zak/6qP8aEUEWbGhnLFvWd4MeY\"><img decoding=\"async\" loading=\"lazy\" src=\"https://glass-production.imgix.net/post/49f92c41-6b5a-493b-a671-d0149e6746b7/photo?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=606a0f8409768ad05d8ac7e61cac6b94\" width=\"8064\" height=\"6048\"></a></div>\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<a href=\"https://glass.photo/zak/6qP8aEUEWbGhnLFvWd4MeY\"><img src=\"https://cdn.glass.photo/post/49f92c41-6b5a-493b-a671-d0149e6746b7/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=0a98aea0c201529289e8d83de5d24821\" width=\"8064\" height=\"6048\"/></a>\n",
 				"date_published": "2023-01-02T23:18:34-08:00",
 				"url": "https://zak.micro.blog/2023/01/02/deserted-highway.html",
 				"tags": ["Photos"]
@@ -49,70 +49,42 @@
 				"url": "https://zak.micro.blog/2023/01/02/happy-new-year.html"
 			},
 			{
-				"id": "http://zak.micro.blog/2022/12/21/til-there-are.html",
-				
-				"content_html": "<p>TIL there are magazines for the Pizza Industry. 🤷🏻‍♂️</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "TIL there are magazines for the Pizza Industry. 🤷🏻‍♂️\n\n<img src=\"uploads/2022/d893e06e9b.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2022/d563ea4663.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-12-21T20:34:00-08:00",
-				"url": "https://zak.micro.blog/2022/12/21/til-there-are.html",
-				"tags": ["Photos"]
-			},
-			{
 				"id": "http://zak.micro.blog/2022/12/16/migrated-to-my.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Migrated to my own Mastodon server. All hail dogcow.us!</p>\n",
 				"date_published": "2022-12-16T12:19:45-08:00",
-				"url": "https://zak.micro.blog/2022/12/16/migrated-to-my.html",
-				"tags": ["Posts"]
+				"url": "https://zak.micro.blog/2022/12/16/migrated-to-my.html"
 			},
 			{
-				"id": "http://zak.micro.blog/2022/12/16/073201.html",
+				"id": "http://zak.micro.blog/2022/12/16/nothing-like-a.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>☕ Nothing like a 7A All Hands meeting to get you up in the AM. 🙄</p>\n",
 				"date_published": "2022-12-16T07:32:01-08:00",
-				"url": "https://zak.micro.blog/2022/12/16/073201.html"
+				"url": "https://zak.micro.blog/2022/12/16/nothing-like-a.html"
 			},
 			{
-				"id": "http://zak.micro.blog/2022/12/09/120301.html",
+				"id": "http://zak.micro.blog/2022/12/09/testing-the-statuslog.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>🫡 Testing the status.log iOS app. This is pretty great!</p>\n",
 				"date_published": "2022-12-09T12:03:01-08:00",
-				"url": "https://zak.micro.blog/2022/12/09/120301.html"
+				"url": "https://zak.micro.blog/2022/12/09/testing-the-statuslog.html"
 			},
 			{
 				"id": "http://zak.micro.blog/2022/11/21/i-strongly-dislike.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🚽 I strongly dislike people that don’t observe proper urinal etiquette.</p>\n\t\t\t</div>\n",
+				"content_text": "<p>🚽 I strongly dislike people that don’t observe proper urinal etiquette.</p>\n",
 				"date_published": "2022-11-21T13:46:35-08:00",
 				"url": "https://zak.micro.blog/2022/11/21/i-strongly-dislike.html"
-			},
-			{
-				"id": "http://zak.micro.blog/2022/11/07/the-penultimate-test.html",
-				"title": "#0 - The Penultimate Test",
-				"content_html": "<p>This is just a test episode, mainly to test some audio configurations, and to get the creative juices flowing.</p>\n<p>Looking forward to the first official episode soon!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is just a test episode, mainly to test some audio configurations, and to get the creative juices flowing. \n\nLooking forward to the first official episode soon!\n\n<audio controls=\"controls\" src=\"https://zak.micro.blog/uploads/2022/5db1e05909.mp3\" preload=\"metadata\" />\n",
-				"date_published": "2022-11-07T13:44:52-08:00",
-				"url": "https://zak.micro.blog/2022/11/07/the-penultimate-test.html",
-				"tags": ["Cast"]
-			},
-			{
-				"id": "http://zak.micro.blog/2022/11/06/minor-panic-attack.html",
-				
-				"content_html": "<p>Minor panic attack as I thought I lost all my notes on my Joplin server.</p>\n<p>Thank the Gods for local caching.</p>\n",
-				"content_text": "Minor panic attack as I thought I lost all my notes on my Joplin server. \n\nThank the Gods for local caching. \n",
-				"date_published": "2022-11-06T11:21:36-08:00",
-				"url": "https://zak.micro.blog/2022/11/06/minor-panic-attack.html",
-				"tags": ["Posts"]
 			},
 			{
 				"id": "http://zak.micro.blog/2022/11/05/cold-start-to.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>❄ Cold start to the morning (48F). Up to 75F today!</p>\n\t\t\t</div>\n",
+				"content_text": "<p>❄ Cold start to the morning (48F). Up to 75F today!</p>\n",
 				"date_published": "2022-11-05T08:44:27-08:00",
 				"url": "https://zak.micro.blog/2022/11/05/cold-start-to.html"
 			},
@@ -120,123 +92,69 @@
 				"id": "http://zak.micro.blog/2022/10/13/day-in-the.html",
 				
 				"content_html": "<p>Day in the Life.</p>\n<p>LA Kings v. Seattle Kraken @ Crypto.com Arena. 8:37p PDT.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day in the Life. \n\nLA Kings v. Seattle Kraken @ Crypto.com Arena. 8:37p PDT. \n\n<img src=\"https://cdn.uploads.micro.blog/29963/2022/0033498a67.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day in the Life. \n\nLA Kings v. Seattle Kraken @ Crypto.com Arena. 8:37p PDT. \n\n<img src=\"uploads/2022/0033498a67.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-10-13T20:16:41-08:00",
 				"url": "https://zak.micro.blog/2022/10/13/day-in-the.html",
 				"tags": ["Photos"]
 			},
 			{
-				"id": "http://zak.micro.blog/2022/09/27/trying-out-the.html",
+				"id": "http://zak.micro.blog/2022/09/27/trying-out-statuses.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>✨ Trying out the statuslog on omg.lol</p>\n\t\t\t</div>\n",
+				"content_text": "<p>✨ Trying out statuses on omg.lol</p>\n",
 				"date_published": "2022-09-27T09:47:23-08:00",
-				"url": "https://zak.micro.blog/2022/09/27/trying-out-the.html"
+				"url": "https://zak.micro.blog/2022/09/27/trying-out-statuses.html"
 			},
 			{
 				"id": "http://zak.micro.blog/2022/08/07/bruce-the-academy.html",
 				"title": "Bruce @ the Academy Museum of Motion Pictures",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"https://glass.photo/zak/42Pnts9wzJ65oYIUla8ior\"><img src=\"https://glass-production.imgix.net/post/c67b1879-6f69-4015-81a2-0d7e0a2115f5/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=c01ff28b10eabd97ed1912ef23a7b749\" width=\"4032\" height=\"3024\"/></a>\n",
+				"content_text": "<a href=\"https://glass.photo/zak/42Pnts9wzJ65oYIUla8ior\"><img src=\"https://cdn.glass.photo/post/c67b1879-6f69-4015-81a2-0d7e0a2115f5/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=c01ff28b10eabd97ed1912ef23a7b749\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2022-08-07T10:52:07-08:00",
 				"url": "https://zak.micro.blog/2022/08/07/bruce-the-academy.html",
-				"tags": ["Photos","Posts"]
-			},
-			{
-				"id": "http://zak.micro.blog/2022/08/07/095207.html",
-				"title": "Bruce @ the Academy Museum of Motion Pictures",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div><a href=\"https://glass.photo/zak/42Pnts9wzJ65oYIUla8ior\"><img decoding=\"async\" loading=\"lazy\" src=\"https://glass-production.imgix.net/post/c67b1879-6f69-4015-81a2-0d7e0a2115f5/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=c01ff28b10eabd97ed1912ef23a7b749\" width=\"4032\" height=\"3024\"></a></div>\n",
-				"date_published": "2022-08-07T09:52:07-08:00",
-				"url": "https://zak.micro.blog/2022/08/07/095207.html",
 				"tags": ["Photos"]
 			},
 			{
 				"id": "http://zak.micro.blog/2022/07/30/paint-the-ice.html",
 				"title": "Paint the Ice @ Crypto.com Arena",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"https://glass.photo/zak/7lYZZevhrcABeVpI7JFOFF\"><img src=\"https://glass-production.imgix.net/post/4b767f47-e6d6-4451-a74e-28a14703ff04/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=e06fc454648fa5a4a8bee954942dfbd2\" width=\"4032\" height=\"3024\"/></a>\n",
+				"content_text": "<a href=\"https://glass.photo/zak/7lYZZevhrcABeVpI7JFOFF\"><img src=\"https://cdn.glass.photo/post/4b767f47-e6d6-4451-a74e-28a14703ff04/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=e06fc454648fa5a4a8bee954942dfbd2\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2022-07-30T21:08:54-08:00",
 				"url": "https://zak.micro.blog/2022/07/30/paint-the-ice.html",
-				"tags": ["Photos"]
-			},
-			{
-				"id": "http://zak.micro.blog/2022/07/30/200854.html",
-				"title": "Paint the Ice @ Crypto.com Arena",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div><a href=\"https://glass.photo/zak/7lYZZevhrcABeVpI7JFOFF\"><img decoding=\"async\" loading=\"lazy\" src=\"https://glass-production.imgix.net/post/4b767f47-e6d6-4451-a74e-28a14703ff04/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=e06fc454648fa5a4a8bee954942dfbd2\" width=\"4032\" height=\"3024\"></a></div>\n",
-				"date_published": "2022-07-30T20:08:54-08:00",
-				"url": "https://zak.micro.blog/2022/07/30/200854.html",
 				"tags": ["Photos"]
 			},
 			{
 				"id": "http://zak.micro.blog/2022/06/10/paradise-in-the.html",
 				"title": "Paradise in the Desert",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"https://glass.photo/zak/1gvpP1yZukyZa9gEwm2GFq\"><img src=\"https://glass-production.imgix.net/post/ab953aea-671d-4350-9b3f-823b34311b66/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=6ca97d0244099ed6a171e99b6e48e43c\" width=\"4032\" height=\"3024\"/></a>\n",
+				"content_text": "<a href=\"https://glass.photo/zak/1gvpP1yZukyZa9gEwm2GFq\"><img src=\"https://cdn.glass.photo/post/ab953aea-671d-4350-9b3f-823b34311b66/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=6ca97d0244099ed6a171e99b6e48e43c\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2022-06-10T06:42:39-08:00",
 				"url": "https://zak.micro.blog/2022/06/10/paradise-in-the.html",
-				"tags": ["Photos"]
-			},
-			{
-				"id": "http://zak.micro.blog/2022/06/10/054239.html",
-				"title": "Paradise in the Desert",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div><a href=\"https://glass.photo/zak/1gvpP1yZukyZa9gEwm2GFq\"><img decoding=\"async\" loading=\"lazy\" src=\"https://glass-production.imgix.net/post/ab953aea-671d-4350-9b3f-823b34311b66/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=6ca97d0244099ed6a171e99b6e48e43c\" width=\"4032\" height=\"3024\"></a></div>\n",
-				"date_published": "2022-06-10T05:42:39-08:00",
-				"url": "https://zak.micro.blog/2022/06/10/054239.html",
 				"tags": ["Photos"]
 			},
 			{
 				"id": "http://zak.micro.blog/2022/03/30/the-hills.html",
 				"title": "The Hills",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"https://glass.photo/zak/3JUkqY8nfWcSTLMiTl78M2\"><img src=\"https://glass-production.imgix.net/post/d772f513-35a0-4f63-98e5-3201a4c38901/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=d92353dc62b4a96d718358555f058605\" width=\"8444\" height=\"3938\"/></a>\n",
+				"content_text": "<a href=\"https://glass.photo/zak/3JUkqY8nfWcSTLMiTl78M2\"><img src=\"https://cdn.glass.photo/post/d772f513-35a0-4f63-98e5-3201a4c38901/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=d92353dc62b4a96d718358555f058605\" width=\"8444\" height=\"3938\"/></a>\n",
 				"date_published": "2022-03-30T07:33:00-08:00",
 				"url": "https://zak.micro.blog/2022/03/30/the-hills.html",
-				"tags": ["Photos"]
-			},
-			{
-				"id": "http://zak.micro.blog/2022/03/30/063300.html",
-				"title": "The Hills",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div><a href=\"https://glass.photo/zak/3JUkqY8nfWcSTLMiTl78M2\"><img decoding=\"async\" loading=\"lazy\" src=\"https://glass-production.imgix.net/post/d772f513-35a0-4f63-98e5-3201a4c38901/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=d92353dc62b4a96d718358555f058605\" width=\"8444\" height=\"3938\"></a></div>\n",
-				"date_published": "2022-03-30T06:33:00-08:00",
-				"url": "https://zak.micro.blog/2022/03/30/063300.html",
 				"tags": ["Photos"]
 			},
 			{
 				"id": "http://zak.micro.blog/2022/03/15/a-fall-entrance.html",
 				"title": "A Fall Entrance",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"https://glass.photo/zak/37WUY2VTn5AoYnCLE71lKr\"><img src=\"https://glass-production.imgix.net/post/ad5ed10f-b605-4ebc-ba94-e4afb6b89a45/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=3234e1549df40dbafda6afdd20cdf796\" width=\"4000\" height=\"6000\"/></a>\n",
+				"content_text": "<a href=\"https://glass.photo/zak/37WUY2VTn5AoYnCLE71lKr\"><img src=\"https://cdn.glass.photo/post/ad5ed10f-b605-4ebc-ba94-e4afb6b89a45/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=3234e1549df40dbafda6afdd20cdf796\" width=\"4000\" height=\"6000\"/></a>\n",
 				"date_published": "2022-03-15T11:26:17-08:00",
 				"url": "https://zak.micro.blog/2022/03/15/a-fall-entrance.html",
-				"tags": ["Photos"]
-			},
-			{
-				"id": "http://zak.micro.blog/2022/03/15/102617.html",
-				"title": "A Fall Entrance",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div><a href=\"https://glass.photo/zak/37WUY2VTn5AoYnCLE71lKr\"><img decoding=\"async\" loading=\"lazy\" src=\"https://glass-production.imgix.net/post/ad5ed10f-b605-4ebc-ba94-e4afb6b89a45/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=3234e1549df40dbafda6afdd20cdf796\" width=\"4000\" height=\"6000\"></a></div>\n",
-				"date_published": "2022-03-15T10:26:17-08:00",
-				"url": "https://zak.micro.blog/2022/03/15/102617.html",
-				"tags": ["Photos"]
-			},
-			{
-				"id": "http://zak.micro.blog/2022/02/12/112908.html",
-				"title": "A Vintage View",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div><a href=\"https://glass.photo/zak/4PqTCpQCNWkBDFb47aacgF\"><img decoding=\"async\" loading=\"lazy\" src=\"https://glass-production.imgix.net/post/0366d6a4-152e-4436-8b60-8af694138c38/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=792ffc4676052dcd641ab9316f5b7caf\" width=\"960\" height=\"720\"></a></div>\n",
-				"date_published": "2022-02-12T11:29:08-08:00",
-				"url": "https://zak.micro.blog/2022/02/12/112908.html",
 				"tags": ["Photos"]
 			},
 			{
 				"id": "http://zak.micro.blog/2022/02/12/a-vintage-view.html",
 				"title": "A Vintage View",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"https://glass.photo/zak/4PqTCpQCNWkBDFb47aacgF\"><img src=\"https://glass-production.imgix.net/post/0366d6a4-152e-4436-8b60-8af694138c38/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=792ffc4676052dcd641ab9316f5b7caf\" width=\"960\" height=\"720\"/></a>\n",
+				"content_text": "<a href=\"https://glass.photo/zak/4PqTCpQCNWkBDFb47aacgF\"><img src=\"https://cdn.glass.photo/post/0366d6a4-152e-4436-8b60-8af694138c38/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=792ffc4676052dcd641ab9316f5b7caf\" width=\"960\" height=\"720\"/></a>\n",
 				"date_published": "2022-02-12T11:29:08-08:00",
 				"url": "https://zak.micro.blog/2022/02/12/a-vintage-view.html",
 				"tags": ["Photos"]
@@ -245,7 +163,7 @@
 				"id": "http://zak.micro.blog/2022/02/06/a-round-bug.html",
 				"title": "A Round Bug",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"https://glass.photo/zak/6vhlDjrvvDn4etkrAuSCj9\"><img src=\"https://glass-production.imgix.net/post/575c33e6-46b2-43f7-9ee9-9bbde8b6869e/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=342beb2ac023d9c3550326d8bdee3f03\" width=\"4032\" height=\"3024\"/></a>\n",
+				"content_text": "<a href=\"https://glass.photo/zak/6vhlDjrvvDn4etkrAuSCj9\"><img src=\"https://cdn.glass.photo/post/575c33e6-46b2-43f7-9ee9-9bbde8b6869e/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=342beb2ac023d9c3550326d8bdee3f03\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2022-02-06T21:16:14-08:00",
 				"url": "https://zak.micro.blog/2022/02/06/a-round-bug.html",
 				"tags": ["Photos"]
@@ -254,7 +172,7 @@
 				"id": "http://zak.micro.blog/2022/01/04/a-farm-of.html",
 				"title": "A Farm of Grapes",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"https://glass.photo/zak/75En0nqd2e6ju7yYrCXB7c\"><img src=\"https://glass-production.imgix.net/post/947bb160-1ab8-4c24-bd94-2fb4d23271b4/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=b61fa5f6b8b0de26b61af76a8ec3e8f7\" width=\"6000\" height=\"4000\"/></a>\n",
+				"content_text": "<a href=\"https://glass.photo/zak/75En0nqd2e6ju7yYrCXB7c\"><img src=\"https://cdn.glass.photo/post/947bb160-1ab8-4c24-bd94-2fb4d23271b4/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=b61fa5f6b8b0de26b61af76a8ec3e8f7\" width=\"6000\" height=\"4000\"/></a>\n",
 				"date_published": "2022-01-04T11:37:03-08:00",
 				"url": "https://zak.micro.blog/2022/01/04/a-farm-of.html",
 				"tags": ["Photos"]
@@ -263,7 +181,7 @@
 				"id": "http://zak.micro.blog/2021/12/05/active-aliens.html",
 				"title": "Active Aliens",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"https://glass.photo/zak/6DCWqYNnPjDB9y0YZNPMS5\"><img src=\"https://glass-production.imgix.net/post/5edade39-7b5a-4537-b7ca-d344a1d320bb/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=a37ffdc1d1f46d5140215627d69bbad1\" width=\"4032\" height=\"3024\"/></a>\n",
+				"content_text": "<a href=\"https://glass.photo/zak/6DCWqYNnPjDB9y0YZNPMS5\"><img src=\"https://cdn.glass.photo/post/5edade39-7b5a-4537-b7ca-d344a1d320bb/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=a37ffdc1d1f46d5140215627d69bbad1\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2021-12-05T15:30:18-08:00",
 				"url": "https://zak.micro.blog/2021/12/05/active-aliens.html",
 				"tags": ["Photos"]
@@ -272,7 +190,7 @@
 				"id": "http://zak.micro.blog/2021/11/30/moon-rise-in.html",
 				"title": "Moon Rise in The Valley",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"https://glass.photo/zak/1DzmkfTxocVehFCi39NjQc\"><img src=\"https://glass-production.imgix.net/post/7c517670-080e-4781-b6bd-3ed9ac55745c/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=0ce4ba60cfbcd4d2a26ccbfc042633cc\" width=\"4032\" height=\"3024\"/></a>\n",
+				"content_text": "<a href=\"https://glass.photo/zak/1DzmkfTxocVehFCi39NjQc\"><img src=\"https://cdn.glass.photo/post/7c517670-080e-4781-b6bd-3ed9ac55745c/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=0ce4ba60cfbcd4d2a26ccbfc042633cc\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2021-11-30T13:48:09-08:00",
 				"url": "https://zak.micro.blog/2021/11/30/moon-rise-in.html",
 				"tags": ["Photos"]
@@ -281,7 +199,7 @@
 				"id": "http://zak.micro.blog/2021/11/08/wing-over-huntsville.html",
 				"title": "Wing Over Huntsville",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"https://glass.photo/zak/5ui9WuwAS7Fu7G1l9bNOnb\"><img src=\"https://glass-production.imgix.net/post/6f7b2a2d-ec7e-4ddb-9896-037e5b6310c4/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=75fc360c06187a6cfb5cfd1356f974c2\" width=\"4032\" height=\"3024\"/></a>\n",
+				"content_text": "<a href=\"https://glass.photo/zak/5ui9WuwAS7Fu7G1l9bNOnb\"><img src=\"https://cdn.glass.photo/post/6f7b2a2d-ec7e-4ddb-9896-037e5b6310c4/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=75fc360c06187a6cfb5cfd1356f974c2\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2021-11-08T15:01:19-08:00",
 				"url": "https://zak.micro.blog/2021/11/08/wing-over-huntsville.html",
 				"tags": ["Photos"]
@@ -290,7 +208,7 @@
 				"id": "http://zak.micro.blog/2021/11/04/night-views.html",
 				"title": "Night Views",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"https://glass.photo/zak/5LLk7Nzyc3cqyzgmGTj25v\"><img src=\"https://glass-production.imgix.net/post/afea3b02-3f65-46ea-8901-dc4c8d5a5f35/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=4cba07e04a27cf47dea6b40a801d6420\" width=\"4032\" height=\"3024\"/></a>\n",
+				"content_text": "<a href=\"https://glass.photo/zak/5LLk7Nzyc3cqyzgmGTj25v\"><img src=\"https://cdn.glass.photo/post/afea3b02-3f65-46ea-8901-dc4c8d5a5f35/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=4cba07e04a27cf47dea6b40a801d6420\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2021-11-04T17:58:18-08:00",
 				"url": "https://zak.micro.blog/2021/11/04/night-views.html",
 				"tags": ["Photos"]
@@ -299,7 +217,7 @@
 				"id": "http://zak.micro.blog/2021/11/04/shadowy-figures.html",
 				"title": "Shadowy Figures",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"https://glass.photo/zak/1b9EvqtSg3LTT5AQTac4YR\"><img src=\"https://glass-production.imgix.net/post/ecbe3563-2f3f-4e0a-84e6-b81f0fdf5812/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=3856968c7bf21243c4cefda0407f8dd2\" width=\"4032\" height=\"3024\"/></a>\n",
+				"content_text": "<a href=\"https://glass.photo/zak/1b9EvqtSg3LTT5AQTac4YR\"><img src=\"https://cdn.glass.photo/post/ecbe3563-2f3f-4e0a-84e6-b81f0fdf5812/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=3856968c7bf21243c4cefda0407f8dd2\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2021-11-04T17:56:05-08:00",
 				"url": "https://zak.micro.blog/2021/11/04/shadowy-figures.html",
 				"tags": ["Photos"]
@@ -308,7 +226,7 @@
 				"id": "http://zak.micro.blog/2021/11/01/nighttime-beach-vibes.html",
 				"title": "Nighttime Beach Vibes",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"https://glass.photo/zak/7KLOoNji02jHnbYBDGFXzc\"><img src=\"https://glass-production.imgix.net/post/2b4343ed-3e4e-417a-9fb1-84bbbe6e1065/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=2540a2857de1a556fe83fed168dd4ae9\" width=\"3834\" height=\"2876\"/></a>\n",
+				"content_text": "<a href=\"https://glass.photo/zak/7KLOoNji02jHnbYBDGFXzc\"><img src=\"https://cdn.glass.photo/post/2b4343ed-3e4e-417a-9fb1-84bbbe6e1065/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=2540a2857de1a556fe83fed168dd4ae9\" width=\"3834\" height=\"2876\"/></a>\n",
 				"date_published": "2021-11-01T07:24:26-08:00",
 				"url": "https://zak.micro.blog/2021/11/01/nighttime-beach-vibes.html",
 				"tags": ["Photos"]
@@ -317,7 +235,7 @@
 				"id": "http://zak.micro.blog/2021/11/01/the-cone-of.html",
 				"title": "The Cone of Light",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"https://glass.photo/zak/2rYZQJXKTx34qPz5EcFEgA\"><img src=\"https://glass-production.imgix.net/post/74e67a96-b818-4e32-a79b-25a6d782189d/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=daf5e2042254eb89bb0465e24857acf6\" width=\"4032\" height=\"3024\"/></a>\n",
+				"content_text": "<a href=\"https://glass.photo/zak/2rYZQJXKTx34qPz5EcFEgA\"><img src=\"https://cdn.glass.photo/post/74e67a96-b818-4e32-a79b-25a6d782189d/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=daf5e2042254eb89bb0465e24857acf6\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2021-11-01T07:23:55-08:00",
 				"url": "https://zak.micro.blog/2021/11/01/the-cone-of.html",
 				"tags": ["Photos"]
@@ -326,7 +244,7 @@
 				"id": "http://zak.micro.blog/2021/11/01/castles-of-wine.html",
 				"title": "Castles of Wine",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"https://glass.photo/zak/2hW1YrKFwF1CHs8vl8XFdn\"><img src=\"https://glass-production.imgix.net/post/99342d67-6e54-48ca-8398-4342150a233e/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=58457b953e9fd1a6a2a04aa1c520981c\" width=\"4032\" height=\"3024\"/></a>\n",
+				"content_text": "<a href=\"https://glass.photo/zak/2hW1YrKFwF1CHs8vl8XFdn\"><img src=\"https://cdn.glass.photo/post/99342d67-6e54-48ca-8398-4342150a233e/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=58457b953e9fd1a6a2a04aa1c520981c\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2021-11-01T07:23:25-08:00",
 				"url": "https://zak.micro.blog/2021/11/01/castles-of-wine.html",
 				"tags": ["Photos"]
@@ -335,7 +253,7 @@
 				"id": "http://zak.micro.blog/2021/08/14/union-station.html",
 				"title": "Union Station",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"https://glass.photo/zak/1ez4ekl5inUjiEFJYgD1wj\"><img src=\"https://glass-production.imgix.net/post/f03fa689-f89f-4582-96a5-e54376bbd7c5/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=3601bbcff8a19ebb2793e2be4e58663d\" width=\"4032\" height=\"3024\"/></a>\n",
+				"content_text": "<a href=\"https://glass.photo/zak/1ez4ekl5inUjiEFJYgD1wj\"><img src=\"https://cdn.glass.photo/post/f03fa689-f89f-4582-96a5-e54376bbd7c5/original?auto=format&fit=max&fm=jpg&h=1024&w=1024&s=3601bbcff8a19ebb2793e2be4e58663d\" width=\"4032\" height=\"3024\"/></a>\n",
 				"date_published": "2021-08-14T05:26:45-08:00",
 				"url": "https://zak.micro.blog/2021/08/14/union-station.html",
 				"tags": ["Photos"]
