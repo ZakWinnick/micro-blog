@@ -7,12 +7,12 @@
 	"items": [
 		
 			{
-				"id": "http://zak.micro.blog/2023/04/09/193059.html",
+				"id": "http://zak.micro.blog/2023/04/15/beautiful-day-for.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2023/e525661178.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-04-09T19:30:59-07:00",
-				"url": "https://winnick.io/2023/04/09/193059.html",
+				"content_html": "<p>Beautiful day for Mets baseball. I’ve now seen them play in 8 parks around the country. Of course, they beat the A’s 3-2.</p>\n<p>It was a good day…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Beautiful day for Mets baseball. I’ve now seen them play in 8 parks around the country. Of course, they beat the A’s 3-2. \n\nIt was a good day…\n\n<img src=\"uploads/2023/643cc90b25.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-04-15T20:54:29-07:00",
+				"url": "https://winnick.io/2023/04/15/beautiful-day-for.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -50,14 +50,6 @@
 				"date_published": "2023-02-15T21:24:45-07:00",
 				"url": "https://winnick.io/2023/02/15/the-rare-moment.html",
 				"tags": ["Photos"]
-			},
-			{
-				"id": "http://zak.micro.blog/2022/11/21/i-strongly-dislike.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>🚽 I strongly dislike people that don’t observe proper urinal etiquette.</p>\n",
-				"date_published": "2022-11-21T14:46:35-07:00",
-				"url": "https://winnick.io/2022/11/21/i-strongly-dislike.html"
 			},
 			{
 				"id": "http://zak.micro.blog/2022/10/13/day-in-the.html",
