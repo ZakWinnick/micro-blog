@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://zak.micro.blog/2023/04/23/greg-howard.html",
+				"title": "Greg Howard",
+				"content_html": "<p>Ever since I heard you play the <a href=\"https://www.stick.com/\">Chapman Stick</a> on, my all-time favorite Dave Matthews Band song, <a href=\"https://open.spotify.com/track/1om1Avyyn1emEctjwvR7Ms?si=c4e2b6bfba74403d\">The Dreaming Tree</a>, I knew this was the instrument I wanted to learn the most.</p>\n<p>Over the following years, thank you for being a friend, and someone for me to ask all the questions when I was learning to play. Thank you for licensing &ldquo;<a href=\"https://open.spotify.com/track/5IVc2q2tD06xC7lXF1zI8t?si=aab9638082f04df4\">Big Meadows</a>&rdquo; to me for a little project I was working on in Austin. Thank you for being an inspiration for me and a countless number of Stick players around the world.</p>\n<p>Pancreatic cancer is a bitch, and it&rsquo;s terrible that we lost you to it.</p>\n<p>RIP Greg Howard. You were one in a Googolplex.</p>\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"https://www.youtube.com/embed/RCXjEIQANes\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
+				"content_text": "Ever since I heard you play the [Chapman Stick](https://www.stick.com/) on, my all-time favorite Dave Matthews Band song, [The Dreaming Tree](https://open.spotify.com/track/1om1Avyyn1emEctjwvR7Ms?si=c4e2b6bfba74403d), I knew this was the instrument I wanted to learn the most.\n\nOver the following years, thank you for being a friend, and someone for me to ask all the questions when I was learning to play. Thank you for licensing \"[Big Meadows](https://open.spotify.com/track/5IVc2q2tD06xC7lXF1zI8t?si=aab9638082f04df4)\" to me for a little project I was working on in Austin. Thank you for being an inspiration for me and a countless number of Stick players around the world. \n\nPancreatic cancer is a bitch, and it's terrible that we lost you to it.\n \nRIP Greg Howard. You were one in a Googolplex.\n\n{{< youtube RCXjEIQANes >}}\n",
+				"date_published": "2023-04-23T07:44:52-07:00",
+				"url": "https://winnick.io/2023/04/23/greg-howard.html",
+				"tags": ["Posts"]
+			},
+			{
 				"id": "http://zak.micro.blog/2023/04/15/beautiful-day-for.html",
 				
 				"content_html": "<p>Beautiful day for Mets baseball. I’ve now seen them play in 8 parks around the country. Of course, they beat the A’s 3-2.</p>\n<p>It was a good day…</p>\n<!-- raw HTML omitted -->\n",
@@ -46,7 +55,7 @@
 				"id": "http://zak.micro.blog/2023/02/15/the-rare-moment.html",
 				"title": "LA Kings Fanfest 2023",
 				"content_html": "<p>The rare moment I’m in front of a camera.</p>\n<p>Totally worth it to meet my favorite LA Kings player, Pheonix Copley (he’s the starting goalie, and yes…that’s how he spells his name).</p>\n<p>This was at the 2023 Kings Fan Fest at the Microsoft Theater (across the street from Staples Cen…I mean Crypto.com Arena).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The rare moment I’m in front of a camera. \n\nTotally worth it to meet my favorite LA Kings player, Pheonix Copley (he’s the starting goalie, and yes…that’s how he spells his name). \n\nThis was at the 2023 Kings Fan Fest at the Microsoft Theater (across the street from Staples Cen…I mean Crypto.com Arena).\n\n<img src=\"uploads/2023/f6c70c2033.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The rare moment I’m in front of a camera. \n\nTotally worth it to meet my favorite LA Kings player, Pheonix Copley (he’s the starting goalie, and yes…that’s how he spells his name). \n\nThis was at the 2023 Kings Fan Fest at the Microsoft Theater (across the street from Staples Cen…I mean Crypto.com Arena).\n\n<img src=\"https://zak.micro.blog/uploads/2023/f6c70c2033.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-15T21:24:45-07:00",
 				"url": "https://winnick.io/2023/02/15/the-rare-moment.html",
 				"tags": ["Photos"]
